@@ -1,4 +1,4 @@
-//Joshua Mullins
+//Assignment 2 - Joshua Mullins
 public class BeerSong {
     public static void main(String[] args) {
         int beerNum = 99;
